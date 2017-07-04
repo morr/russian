@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'i18n', [">= 0.6.0", "< 0.9.0"]
   spec.add_dependency 'unicode', '~> 0.4.4'
-  spec.add_dependency 'activesupport', ['>= 3.0.0', '< 5.1.0']
+  spec.add_dependency 'activesupport', ['>= 3.0.0', '< 6.0.0']
 
   spec.add_development_dependency 'bundler', '~> 1.12'
   spec.add_development_dependency 'rake'
